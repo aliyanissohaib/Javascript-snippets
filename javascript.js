@@ -5,4 +5,4 @@ z = 4;
 y = z;
 x = 1 + "1" + '1';
 //x = y =z;
-console.log(x,y,z);
+console.log(x,y,);
