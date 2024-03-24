@@ -3,6 +3,6 @@ y = 3;
 z = 4;
 //x = y;
 y = z;
-x = '1';
+x = 1;
 //x = y =z;
 console.log(x);
